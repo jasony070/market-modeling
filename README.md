@@ -1,3 +1,5 @@
+# Project By: Jason Yi, Richy Chen, Abel Leulseged, Tony Jiang, Susan Xiao
+
 # Market Modeling
 
 ## 1. Background
